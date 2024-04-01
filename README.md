@@ -6,6 +6,9 @@
 
 <!-- Title -->
 <h1 align="center"><b>CS114.L21 - MÁY HỌC</b> - LAB 01</b></h1> 
+
+
+
 | Student Name        | Student ID | Github Profile|
 | ------------------- | ---------- |---------------|
 | Thái Đình Nhật Hiển | 22520424   |               |
